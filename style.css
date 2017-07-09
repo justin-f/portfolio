@@ -1,6 +1,7 @@
-#footer {
+.footer {
   height: 1.5em;
-  background: FFFFFF;
+  background: #111111;
+  margin-bottom:-50px;
   
 }
 
